@@ -1,0 +1,2 @@
+CALL_FUNCTION PackageAddress("013ba054764dac3a018536b3fea1ed49b70dea7fd3a8e8a817fdc9") "EventService" "create" "Rust London Ticket" "RLT" Decimal("100") Decimal("100") 250u64;
+CALL_METHOD_WITH_ALL_RESOURCES ComponentAddress("02152efc573983b55fd76f7ac5def5b9bc8b520ab9648683ae95ae") "deposit_batch";
